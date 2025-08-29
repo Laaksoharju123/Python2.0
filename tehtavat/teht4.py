@@ -1,0 +1,6 @@
+a = float(input("anna ensinmäinen luku"))
+b = float(input("anna toinen luku"))
+c = float(input("anna kolmas luku"))
+print(f"yhteenlasku:", a + b + c)
+print(f"kertolasku:", a * b *c)
+print(f"Keskiarvo {a / b / c:.2f}")
